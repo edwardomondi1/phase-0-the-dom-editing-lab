@@ -1,0 +1,2 @@
+- [x] Update index.html with the full HTML structure including h1, p with strong/em/a, and table as per lab instructions
+- [x] Run tests to verify all tests pass
